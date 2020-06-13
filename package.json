@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "flashio": "0.0.2",
-    "moment": "^2.18.1",
+    "moment": "^2.19.3",
     "mongodb": "^2.2.31",
     "underscore": "^1.8.3"
   }
