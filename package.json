@@ -12,6 +12,6 @@
     "flashio": "0.0.2",
     "moment": "^2.18.1",
     "mongodb": "^2.2.31",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
